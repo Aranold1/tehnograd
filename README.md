@@ -5,7 +5,7 @@
 ## Требования
 
 - .NET 8.0 SDK
-- API-ключи от [2GIS](https://dev.2gis.com/) и [Яндекс.Геокодер](https://developer.tech.yandex.ru/services/)
+- API-ключи от [2GIS](https://dev.2gis.com/) и [Яндекс.Геокодер](https://yandex.ru/maps-api/products/geocoder-api)
 
 ## Установка
 
